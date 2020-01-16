@@ -1,90 +1,70 @@
 {
-    "status": true,
-    "data": [{
-            "slide menu": [{
-                    "id_category": "24",
-                    "name": "Nouveautés",
-                    "category_image_url": "https://thumbs.dreamstime.com/b/nouveaut%C3%A9s-100504548.jpg"
-                },
-                {
-                    "id_category": "13",
-                    "name": "Future maman",
-                    "category_image_url": "https://thumbs.dreamstime.com/b/future-mother-white-background-young-pregnant-woman-floral-vector-illustration-cartoon-style-girl-75072008.jpg"
-                },
-                {
-                    "id_category": "14",
-                    "name": "Vêtements",
-                    "category_image_url": "https://image.freepik.com/free-vector/hand-drawn-baby-clothes_23-2147522273.jpg"
-                },
-                {
-                    "id_category": "15",
-                    "name": "Collection",
-                    "category_image_url": "https://as1.ftcdn.net/jpg/02/60/82/38/500_F_260823822_b01GevL0DEpW6relOXnfOkQL66V1Cyld.jpg"
-                },
-                {
-                    "id_category": "16",
-                    "name": "Chambre",
-                    "category_image_url": "https://comps.canstockphoto.com/girls-bedroom-interior-flat-style-drawing_csp46299092.jpg"
-                },
-                {
-                    "id_category": "17",
-                    "name": "Hygiène",
-                    "category_image_url": "https://media.istockphoto.com/vectors/baby-hygiene-linear-style-elements-vector-id1088918354?k=6&m=1088918354&s=170667a&w=0&h=MfPuIqXvIqYA5GPENWT1OyZXHzYPMdR6L6cl7TAlvAw="
-                },
-                {
-                    "id_category": "18",
-                    "name": "Repas",
-                    "category_image_url": "https://thumbs.dreamstime.com/b/baby-food-spoon-vector-illustration-line-color-design-baby-food-linecolor-illustration-126329527.jpg"
-                },
-                {
-                    "id_category": "19",
-                    "name": "Eveil",
-                    "category_image_url": "http://www.mypara.tn/3479-thickbox_default/tapis-d-eveil-pour-bebe.jpg"
-                },
-                {
-                    "id_category": "20",
-                    "name": "Sécurité",
-                    "category_image_url": "https://cdn3.iconfinder.com/data/icons/baby-s-health-color/64/baby-safety-security-protect-insurance-512.png"
-                },
-                {
-                    "id_category": "21",
-                    "name": "Siège auto",
-                    "category_image_url": "https://media.gettyimages.com/vectors/baby-car-seat-sign-vector-id502755181?s=612x612"
-                },
-                {
-                    "id_category": "22",
-                    "name": "Poussettes",
-                    "category_image_url": "https://media.gettyimages.com/vectors/baby-carriage-pregnancy-icon-vector-id1152715807?s=612x612"
-                },
-                {
-                    "id_category": "23",
-                    "name": "Jouets",
-                    "category_image_url": "https://thumbs.dreamstime.com/b/jouets-d-enfants-dans-une-bo%C3%AEte-108200937.jpg"
-                }
-            ]
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "img": "************",
+    "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+        }
+    },
+    "card": [{
+            "id": 11,
+            "amount": "$12,750.00",
+            "cardNumber": "**** **** **** 7589",
+            "cardValidation": "13/21",
+            "cardType": "Visa",
+            "color": "#0074c5"
         },
         {
-            "slider": [{
-                    "id_slide": "1",
-                    "active": "1",
-                    "title": "GRAND DÉSTOCKAGE",
-                    "url": "http://#",
-                    "legend": "GRAND DÉSTOCKAGE",
-                    "description": "C’est parti pour le déstockage!Profitez de nombreuses remises!\nJE ME FONCE ",
-                    "image": "https://s3.amazonaws.com/breezeblog/2/new-horizon-expand.jpg",
-                    "image_url": "https://s3.amazonaws.com/breezeblog/2/new-horizon-expand.jpg"
-                },
-                {
-                    "id_slide": "4",
-                    "active": "1",
-                    "title": "La liste de naissance Materna",
-                    "url": "http://#",
-                    "legend": "",
-                    "description": "Toutes mes envies en Quelques clics!\nJE ME FONCE",
-                    "image": "https://www.quelleenergie.fr/magazine/wp-content/uploads/2016/06/energies-renouvelables-solaire-eolien-bois-geothermie-min.jpg",
-                    "image_url": "https://www.quelleenergie.fr/magazine/wp-content/uploads/2016/06/energies-renouvelables-solaire-eolien-bois-geothermie-min.jpg"
-                }
-            ]
+            "id": 22,
+            "amount": "$2,750.50",
+            "cardNumber": "**** **** **** 6789",
+            "cardValidation": "01/21",
+            "cardType": "Master",
+            "color": "#ff5484"
+        },
+        {
+            "id": 33,
+            "amount": "$750.00",
+            "cardNumber": "**** **** **** 1234",
+            "cardValidation": "24/21",
+            "cardType": "American Express",
+            "color": "#9754e5"
         }
-    ]
+    ],
+    "transactions": [{
+        "id": 1111,
+        "title": "Banker",
+        "subtitle": "Top Up Money",
+        "amount": "+$200"
+    }, {
+        "id": 2222,
+        "title": "Charlie Walker",
+        "subtitle": "Requested money",
+        "amount": "+$100"
+    }, {
+        "id": 3333,
+        "title": "Harriett Ruiz",
+        "subtitle": "Send money",
+        "amount": "-$125"
+    }, {
+        "id": 4444,
+        "title": "Afwa Belkhir",
+        "subtitle": "Test For UI",
+        "amount": "+$125000"
+    }],
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+    }
 }
